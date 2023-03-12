@@ -22,4 +22,4 @@ app.UseAuthorization();
 
 app.MapRazorPages();
 
-app.Run();
+app.Run("https://test-web-app.vercel.app/");
